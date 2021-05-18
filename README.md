@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InOmn1aParatus
-- 👀 I’m interested in learning software development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning through Turing School of Software & Design.
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me ...
