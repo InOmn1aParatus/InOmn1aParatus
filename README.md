@@ -1,4 +1,6 @@
-## I'm Matt. I'm a software developer in Vista, CA.
+[geometric-banner.jpg](https://postimg.cc/1nSz6sn0)
+
+- I'm a software developer in Vista, CA.
 - I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
 - I’m open to collaborate on large or small projects.
 
