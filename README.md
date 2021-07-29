@@ -1,4 +1,4 @@
-[geometric-banner.jpg](https://postimg.cc/1nSz6sn0)
+![geometric banner](https://user-images.githubusercontent.com/56685055/127571827-66158fa4-32f0-436e-8772-ab60bed40cef.jpeg)
 
 - I'm a software developer in Vista, CA.
 - I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
