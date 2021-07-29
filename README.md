@@ -4,8 +4,6 @@ I'm Matt. I'm a software developer in Vista, CA.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mattkragen/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InOmn1aParatus&layout=compact)](https://github.com/InOmn1aParatus/github-readme-stats)
-
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=InOmn1aParatus&show_icons=true&hide=stars&theme=chartreuse-dark)
 
 [Stats Powered by Vercel](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
