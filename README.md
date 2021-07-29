@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @InOmn1aParatus
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning through Turing School of Software & Design.
-- 💞️ I’m looking to collaborate on small projects 
-- 📫 How to reach me ...
+I'm Matt. I'm a software developer in Vista, CA.
+- I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
+- I’m open to collaborate on large or small projects.
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mattkragen/)
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=InOmn1aParatus&show_icons=true&hide=stars&theme=vision-friendly-dark)
 
 <!---
 InOmn1aParatus/InOmn1aParatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
