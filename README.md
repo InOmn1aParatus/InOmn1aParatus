@@ -11,8 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InOmn1aParatus&theme=chartreuse-dark&layout=compact" />
 </details>
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=InOmn1aParatus&show_icons=true&hide=stars&theme=chartreuse-dark)
-
 [Stats Powered by Vercel](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
 <!---
