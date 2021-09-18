@@ -2,7 +2,7 @@
 
 - I'm a software developer in Vista, CA.
 - I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
-- I’m open to collaborate on large or small projects.
+- I’m open to collaborate!
 
 [![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
 [![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/inomn1aparatus/)
