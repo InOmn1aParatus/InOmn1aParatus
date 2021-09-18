@@ -22,3 +22,8 @@
 InOmn1aParatus/InOmn1aParatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- LINKS -->
+[GitHub]: https://github.com/InOmn1aParatus
+[gmail]: mailto:mattdkragen@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/mattkragen/
