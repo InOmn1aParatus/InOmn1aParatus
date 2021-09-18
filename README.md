@@ -7,7 +7,7 @@
 [![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
 [![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/inomn1aparatus/)
 [![Email: mattdkragen@gmail.com][gmail-badge]][gmail]
-[![GitHub: InOmn1aParatus][github-follow-badge]][GitHub]
+[![GitHub: matt-kragen][github-follow-badge]][GitHub]
 
 <details>	
   <summary><b>Github Stats</b></summary>
@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- LINKS -->
-[GitHub]: https://github.com/InOmn1aParatus
+[GitHub]: https://github.com/matt-kragen
 [gmail]: mailto:mattdkragen@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/mattkragen/
 
 <!-- BADGES -->
-[github-follow-badge]: https://img.shields.io/github/followers/InOmn1aParatus?label=follow&style=social
+[github-follow-badge]: https://img.shields.io/github/followers/matt-kragen?label=follow&style=social
 [gmail-badge]: https://img.shields.io/badge/gmail-mattdkragen@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
 [linkedin-badge]: https://img.shields.io/badge/Matt--Kragen-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
