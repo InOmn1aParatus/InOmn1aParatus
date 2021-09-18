@@ -27,3 +27,8 @@ You can click the Preview link to take a look at your changes.
 [GitHub]: https://github.com/InOmn1aParatus
 [gmail]: mailto:mattdkragen@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/mattkragen/
+
+<!-- BADGES -->
+[github-follow-badge]: https://img.shields.io/github/followers/InOmn1aParatus?label=follow&style=social
+[gmail-badge]: https://img.shields.io/badge/gmail-mattdkragen@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
+[linkedin-badge]: https://img.shields.io/badge/Matt--Kragen-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
