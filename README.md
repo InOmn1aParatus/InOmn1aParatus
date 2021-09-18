@@ -4,8 +4,10 @@
 - I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
 - I’m open to collaborate on large or small projects.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mattkragen/)
+[![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
 [![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/inomn1aparatus/)
+[![Email: mattdkragen@gmail.com][gmail-badge]][gmail]
+[![GitHub: InOmn1aParatus][github-follow-badge]][GitHub]
 
 <details>	
   <summary><b>Github Stats</b></summary>
