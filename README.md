@@ -12,8 +12,8 @@
 <details>	
   <summary><b>Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InOmn1aParatus&show_icons=true&hide=stars&theme=chartreuse-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InOmn1aParatus&theme=chartreuse-dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-kragen&show_icons=true&hide=stars&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kragen&theme=chartreuse-dark&layout=compact" />
 </details>
 
 [Stats Powered by Vercel](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
