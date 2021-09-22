@@ -5,7 +5,7 @@
 - I’m open to collaborate!
 
 [![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
-[![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/inomn1aparatus/)
+[![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/matt-kragen/)
 [![Email: mattdkragen@gmail.com][gmail-badge]][gmail]
 [![GitHub: matt-kragen][github-follow-badge]][GitHub]
 
