@@ -11,8 +11,6 @@
 [![GitHub: matt-kragen][github-follow-badge]][GitHub]
 
 
-<b>Github Stats</b>
-<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-kragen&show_icons=true&hide=stars&theme=chartreuse-dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kragen&theme=chartreuse-dark&layout=compact" />
 
