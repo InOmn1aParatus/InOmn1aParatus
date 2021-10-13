@@ -2,8 +2,8 @@
 
 - I'm a software engineer in Vista, CA.
 - I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
-- BFF to a Siberian Husky 🐾 and lifter of heavy things 💪😎👍
-- When I'm not listening to techno and coding, I love climbing anything with a grippable edge 🧗
+- BFF to a Siberian Husky 🐾  and lifter of heavy things  💪😎👍
+- When I'm not listening to techno and coding, I love climbing anything with a grippable edge  🧗
 
 [![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
 [![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/matt-kragen/)
