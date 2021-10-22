@@ -1,15 +1,13 @@
+[![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
+[![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/matt-kragen/)
+[![Email: mattdkragen@gmail.com][gmail-badge]][gmail]
+[![GitHub: matt-kragen][github-follow-badge]][GitHub]
 ![gemometry resized](https://user-images.githubusercontent.com/56685055/127572202-0044705a-92eb-43c7-8f34-0231ba704c5e.jpeg)
 
 - I'm a software engineer in Vista, CA.
 - I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
 - BFF to a Siberian Husky 🐾  and lifter of heavy things  💪😎👍
 - When I'm not listening to techno and coding, I love climbing anything with a grippable edge  🧗
-
-[![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
-[![DEV Profile Badge](https://img.shields.io/badge/DEV-Profile-green)](https://dev.to/matt-kragen/)
-[![Email: mattdkragen@gmail.com][gmail-badge]][gmail]
-[![GitHub: matt-kragen][github-follow-badge]][GitHub]
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-kragen&show_icons=true&hide=stars&theme=chartreuse-dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kragen&theme=chartreuse-dark&layout=compact" />
