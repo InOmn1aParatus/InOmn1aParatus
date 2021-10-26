@@ -10,12 +10,12 @@
 - When I'm not listening to techno and coding, I love climbing anything with a grippable edge  🧗
 
 <!--- SKILLS --->
-[![Ruby][ruby-badge]]
-[![RoR][ruby-on-rails-badge]]
-[![Python][python-badge]]
-[![Django][django-badge]]
-[![PostgreSQL][postgresql-badge]]
-[![Heroku][heroku-badge]]
+[Ruby][ruby-badge]
+[RoR][ruby-on-rails-badge]
+[Python][python-badge]
+[Django][django-badge]
+[PostgreSQL][postgresql-badge]
+[Heroku][heroku-badge]
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-kragen&show_icons=true&hide=stars&theme=chartreuse-dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kragen&theme=chartreuse-dark&layout=compact" />
