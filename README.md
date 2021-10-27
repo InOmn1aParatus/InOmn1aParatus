@@ -10,7 +10,7 @@
 - When I'm not listening to techno and coding, I love climbing anything with a grippable edge  🧗
 
 <!--- SKILLS --->
-[![ruby-badge]]
+[ruby-badge]
 [![RoR][ruby-on-rails-badge]]
 [![Python][python-badge]]
 [![Django][django-badge]]
