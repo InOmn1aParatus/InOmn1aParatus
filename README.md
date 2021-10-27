@@ -9,8 +9,9 @@
 - BFF to a Siberian Husky 🐾  and lifter of heavy things  💪😎👍
 - When I'm not listening to techno and coding, I love climbing anything with a grippable edge  🧗
 
-<!--- SKILLS --->
+### Skills
 <span>
+  <b height="35">Back-End:</b>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="35" /> 
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="35" />
