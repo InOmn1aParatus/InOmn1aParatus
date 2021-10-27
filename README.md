@@ -13,6 +13,7 @@
 <span>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="35" /> 
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=flaste&logo=rubyonrails&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35" />
 </span>
@@ -45,6 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- BADGES -->
 [github-follow-badge]: https://img.shields.io/github/followers/matt-kragen?label=follow&style=social
-[gmail-badge]: https://img.shields.io/badge/gmail-mattdkragen@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
-[linkedin-badge]: https://img.shields.io/badge/Matt--Kragen-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
-[dev-badge]: https://img.shields.io/badge/DEV-Profile-green
+[gmail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[dev-badge]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
