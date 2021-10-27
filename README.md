@@ -11,6 +11,7 @@
 
 <!--- SKILLS --->
 [ruby-badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="50" /> 
 [ruby-on-rails-badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 [python-badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [django-badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
