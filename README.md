@@ -21,6 +21,8 @@
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=flat&logo=postman&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/CircleCI-FFBC4F.svg?&style=flat&logo=circle&logoColor=white" height="35" />
 </span>
 
 <br><hr>
