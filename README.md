@@ -5,9 +5,9 @@
 ![gemometry resized](https://user-images.githubusercontent.com/56685055/127572202-0044705a-92eb-43c7-8f34-0231ba704c5e.jpeg)
 
 - I'm a software engineer in Vista, CA.
-- I’m currently a student at [Turing School](https://turing.io/) of Software and Design.
+- Graduate of [Turing School](https://turing.io/)'s Back-End Engineering Program.
 - BFF to a Siberian Husky 🐾  and lifter of heavy things  💪😎👍
-- When I'm not listening to techno and coding, I love climbing anything with a grippable edge  🧗
+- When I'm not coding, I enjoy listening to music, staying active, taking on new skills, and climbing anything that won't get me in trouble 🧗🏢🏗
 
 ### Back-End:
 <span>
@@ -32,11 +32,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kragen&theme=chartreuse-dark&layout=compact" />
 
 [Stats Powered by Vercel](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
-
-<!---
-InOmn1aParatus/InOmn1aParatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!-- LINKS -->
 [GitHub]: https://github.com/matt-kragen
