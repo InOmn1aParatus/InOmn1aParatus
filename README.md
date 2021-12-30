@@ -1,5 +1,4 @@
 [![LinkedIn: mattkragen][linkedin-badge]][LinkedIn]
-[![DEV Profile Badge][dev-badge]][Dev]
 [![Email: mattdkragen@gmail.com][gmail-badge]][Gmail]
 [![GitHub: matt-kragen][github-follow-badge]][GitHub]
 ![gemometry resized](https://user-images.githubusercontent.com/56685055/127572202-0044705a-92eb-43c7-8f34-0231ba704c5e.jpeg)
