@@ -3,10 +3,9 @@
 [![GitHub: matt-kragen][github-follow-badge]][GitHub]
 ![gemometry resized](https://user-images.githubusercontent.com/56685055/127572202-0044705a-92eb-43c7-8f34-0231ba704c5e.jpeg)
 
-- Software Engineer at **HQE Systems**.
-- Graduate of [Turing School](https://turing.io/)'s Back-End Engineering Program.
-- BFF to a Siberian Husky 🐾  and lifter of heavy things  💪😎👍
-- When I'm not coding, I enjoy listening to music, staying active, taking on new skills, and climbing anything that won't get me in trouble 🧗🏢🏗
+- Software Engineer at [HQE Systems](https://www.hqesystems.com/)
+- Graduate of [Turing School](https://turing.io/)'s Back-End Engineering Program
+- Friend of dogs 🐾  lifter of things  💪😎👍 lover of hot sauce 🔥 learner of stuff 📖
 
 ### Back-End:
 <span>
