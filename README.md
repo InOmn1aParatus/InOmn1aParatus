@@ -3,9 +3,12 @@
 [![GitHub: matt-kragen][github-follow-badge]][GitHub]
 ![gemometry resized](https://user-images.githubusercontent.com/56685055/127572202-0044705a-92eb-43c7-8f34-0231ba704c5e.jpeg)
 
-- Software Engineer at [HQE Systems](https://www.hqesystems.com/)
+- Software Engineer at [VCI](https://www.vericheck.com/solutions/vci-payments/)
 - Graduate of [Turing School](https://turing.io/)'s Back-End Engineering Program
-- Friend of dogs 🐾  lifter of things  💪😎👍 lover of hot sauce 🔥 learner of stuff 📖
+```python
+  print(matt.interests)
+```
+`["Dogs 🐩", "Fitness 🏋️‍♂️", "Cooking 👩‍🍳", "Learning 📚", "Krav Maga 👊"]`
 
 ### Back-End:
 <span>
