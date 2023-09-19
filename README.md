@@ -40,7 +40,7 @@
 
 <br><hr>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-kragen&show_icons=true&hide=stars&theme=chartreuse-dark" /></p>
+<!-- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt-kragen&show_icons=true&hide=stars&theme=chartreuse-dark" /></p> -->
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kragen&theme=chartreuse-dark&layout=compact" /></p>
 
 [Stats Powered by Vercel](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
